@@ -1,0 +1,48 @@
+.card {
+  max-width: 250px;
+  background: #fff;
+  border-radius: 3px;
+  padding: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 10px;
+}
+
+.card__img {
+  width: auto;
+  max-width: 80%;
+  max-height: 200px;
+}
+
+.product__name {
+  font-size: 16px;
+}
+
+.product__color {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.product__price {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.prime-icon {
+  width: 70px;
+  display: block;
+  margin: 10px auto 0 auto;
+}
+
+.btn-atc {
+  border: 0;
+  background-color: #02203b;
+  color: #fff;
+  padding: 12px 16px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 2px;
+  margin-top: 10px;
+  cursor: pointer;
+}
